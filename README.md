@@ -1,2 +1,2 @@
-# LeetCode
-LeetCode problem solution
+# Competitive
+Problem solution
